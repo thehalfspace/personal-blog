@@ -3,8 +3,10 @@ title:  "Predicting Earthquakes"
 subtitle: "Where are we?"
 date:   2018-09-19 19:44 -0400
 comments: true
-categories: Miscellaneous
+keywords: []
+tags: [misc.]
 draft: false
+toc: false
 ---
 
 
