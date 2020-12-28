@@ -1,49 +1,145 @@
-baseURL = "https://thehalfspace.github.io/"
+baseURL = "http://thehalfspace.github.io"
+title = "thehalfspace"
 
-# The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
+theme = "hugo-coder"
 
-# Basic metadata configuration for your blog.
-title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
-author = "Jane Doe"
-copyright = "Copyright © 2020, Jane Doe."
-languageCode = "en-US"
+languageCode = "en"
+defaultContentLanguage = "en"
 
-# Generate a nice robots.txt for SEO
-enableRobotsTXT = true
+paginate = 20
 
-# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
-disableKinds = ["taxonomy"]
-ignoreErrors = ["error-disable-taxonomy"]
-[permalinks]
-  blog = "/:slug/"
-  tags = "/blog/:slug"
+pygmentsStyle = "b2"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+
+disqusShortname = "thehalfspace"
 
 [params]
-  # The "description" of your website. This is used in the meta data of your generated html.
-  description = "Hugo + Bear = :heart:"
+    author = "Prithvi Thakur"
+    description = "Seismology / Music / Scientific Computing / Mathematics"
+    keywords = "blog,musician,personal,science"
+    info = "Graduate Student and Musician"
+    avatarURL = "images/avatar.jpg"
+    #gravatar = "john.doe@example.com"
+    footerContent = "Enter a text here."
 
-  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-  # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
-  favicon = "images/favicon.png"
+    dateFormat = "January 2, 2006"
 
-  # These "images" are used for the structured data templates. This will show up, when
-  # services like Twitter or Slack want to generate a preview of a link to your site.
-  # See https://gohugo.io/templates/internal#twitter-cards and
-  # https://gohugo.io/templates/internal#open-graph.
-  images = ["images/share.png"]
+    hideFooter = false
+    hideCredits = false
+    hideCopyright = false
+    since = 2019
 
-  # Another "title" :-). This one is used as the site_name on the Hugo's internal
-  # opengraph structured data template.
-  # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "Hugo ʕ•ᴥ•ʔ Bear"
+    # Git Commit in Footer, uncomment the line below to enable it.
+    # commit = "https://github.com/luizdepra/hugo-coder/tree/"
 
-  # This theme will, by default, inject a made-with-line at the bottom of the page.
-  # You can turn it off, but we would really appreciate if you don’t :-).
-  # hideMadeWithLine = true
+    rtl = false
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorScheme = "auto"
+
+    # Hide the toggle button, along with the associated vertical divider
+    hideColorSchemeToggle = false
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Enable Twemoji
+    enableTwemoji = true
+
+    # Custom CSS
+    customCSS = []
+
+    # Custom SCSS
+    customSCSS = []
+
+    # Custom JS
+    customJS = []
+
+# If you want to use fathom(https://usefathom.com) for analytics, add this section
+[params.fathomAnalytics]
+    siteID = "ABCDE"
+    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+    serverURL = "analytics.example.com"
+
+# If you want to use plausible(https://plausible.io) for analytics, add this section
+[params.plausibleAnalytics]
+    domain = "example.com"
+    # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
+    serverURL = "analytics.example.com"
+
+# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
+[params.goatCounter]
+    code = "code"
+
+# If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
+[params.cloudflare]
+    token = "token"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/thehalfspace/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 3
+    url = "https://twitter.com/thehalfspace__/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/prithvi-thakur/"
+[[params.social]]
+    name = "Medium"
+    icon = "fa fa-medium"
+    weight = 5
+    url = "https://medium.com/@johndoe"
 
 
+[languages]
+    [languages.en]
+        languageName = "English"
 
+        [languages.en.menu]
 
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 1
+            url = "about/"
 
+            [[languages.en.menu.main]]
+            name = "Research"
+            weight = 2
+            url = "research/"
+            
+            [[languages.en.menu.main]]
+            name = "Publications"
+            weight = 3
+            url = "publications/"
 
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 4
+            url = "blog/"
+
+            [[languages.en.menu.main]]
+            name = "Music"
+            weight = 5
+            url = "music/"
+
+            [[languages.en.menu.main]]
+            name = "Contact me"
+            weight = 6
+            url = "contact/"
