@@ -12,16 +12,14 @@ pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 
-# disqusShortname = "thehalfspace"
-
 [params]
     author = "Prithvi Thakur"
     description = "Seismology / Music / Scientific Computing / Mathematics"
     keywords = "blog,musician,personal,science"
     info = "Graduate Student and Musician"
-    avatarURL = "images/favicon.svg"
-    favicon_32 = "/img/favicon-32x32.png"
-  	favicon_16 = "/img/favicon-16x16.png"
+    # avatarURL = "images/favicon.svg"
+    # favicon_32 = "/images/logos/logomark.png"
+      # favicon_16 = "/images/logos/favicon.png"
     footerContent = "You either die a spongebob or live long enough to become a squidward -Reddit"
 
     dateFormat = "January 2, 2020"
@@ -52,9 +50,9 @@ pygmentsCodeFencesGuessSyntax = true
     maxSeeAlsoItems = 5
 
     # Custom CSS, SCSS, JS
-    customCSS = []
-  	customSCSS = []
- 	customJS = []
+    # customCSS = []
+    # customSCSS = []
+    # customJS = []
 
 
 
