@@ -5,7 +5,7 @@ draft: false
 description: Conference and Journal articles
 ---
 
-<h3>Journal articles:</h3> 
+## Journal articles:
 
 * [**Thakur, P.**, Huang, Y., & Kaneko, Y. (2020). Effects of low‐velocity fault damage zones on long‐term earthquake behaviors on mature strike‐slip faults. Journal of Geophysical Research: Solid Earth, 125(8).](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB019587)
 
@@ -15,7 +15,7 @@ description: Conference and Journal articles
 
 * [**Thakur, P.**, Srivastava, D. C., & Gupta, P. K. (2017). The genetic algorithm: A robust method for stress inversion. Journal of Structural Geology, 94, 227-239.](https://www.sciencedirect.com/science/article/pii/S0191814116302036)
 
-<h3>Conference presentations:</h3>
+## Conference presentations:
 
 * [**Thakur, P.**, & Huang, Y. (2020). Temporal Changes in Fault damage Zones: Effects of Coseismic Damage Accumulation and Interseismic Healing on Earthquake Cycles. AGUFM, 2020, S032-07](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/685752)
 
@@ -23,7 +23,7 @@ description: Conference and Journal articles
 
 * [**Thakur, P.**, & Huang, Y. (2019). Earthquake cycle simulations for long-term damage evolution and healing in low velocity fault zones. AGUFM, 2019, T13H-0328.](https://ui.adsabs.harvard.edu/abs/2019AGUFM.T13H0328T/abstract)
 
-* [**Thakur, P.**, & Huang, Y. (2019). Long-Term Influence of Fault Zone Damage on Fully Dynamic Earthquake Cycles: Constraints on Hypocenter Location and Magnitude-Frequency Distribution. Numerical Modeling of Earthquake Motions: Waves and Ruptures, Slovakia.]
+* **Thakur, P.**, & Huang, Y. (2019). Long-Term Influence of Fault Zone Damage on Fully Dynamic Earthquake Cycles: Constraints on Hypocenter Location and Magnitude-Frequency Distribution. Numerical Modeling of Earthquake Motions: Waves and Ruptures, Slovakia.
 
 * [**Thakur, P.**, & Huang, Y. (2018). Magnitude-Frequency Distribution of Simulated Earthquake Cycles in Damaged Fault Zones. AGUFM, 2018, S41D-0572.](https://ui.adsabs.harvard.edu/abs/2018AGUFM.S41D0572T/abstract)
 
