@@ -1,5 +1,3 @@
-# REMOVE THIS
-
 baseURL = "http://thehalfspace.github.io"
 title = "home"
 theme = "hugo-coder"
@@ -16,13 +14,13 @@ pygmentsCodeFencesGuessSyntax = true
     author = "Prithvi Thakur"
     description = "Seismology / Music / Scientific Computing / Mathematics"
     keywords = "blog,musician,personal,science"
-    info = "Graduate Student and Musician"
+    info = "Graduate Student and Learner"
     avatarURL = "/images/avatar.jpg"
     favicon_32 = "/images/favicon-32x32.png"
     favicon_16 = "/images/favicon-16x16.png"
     footerContent = "You either die a spongebob or live long enough to become a squidward -Reddit"
 
-    dateFormat = "January 2, 2020"
+    dateFormat = "January 2, 2006"
 
     hideFooter = false
     hideCredits = false
@@ -32,7 +30,6 @@ pygmentsCodeFencesGuessSyntax = true
     # Git Commit in Footer, uncomment the line below to enable it.
     # commit = "https://github.com/luizdepra/hugo-coder/tree/"
 
-    enableTwemoji = true
 
     rtl = false
 
@@ -49,6 +46,8 @@ pygmentsCodeFencesGuessSyntax = true
     # Series see also post count
     maxSeeAlsoItems = 5
 
+    enableTwemoji = true
+    
     # Custom CSS, SCSS, JS
     customCSS = []
     customSCSS = []
@@ -85,11 +84,10 @@ pygmentsCodeFencesGuessSyntax = true
     weight = 3
     url = "https://www.linkedin.com/in/prithvi-thakur/"
 [[params.social]]
-    name = "Soundcloud"
+    name = "SoundCloud"
     icon = "fa fa-soundcloud"
     weight = 4
-    url = "https://soundcloud.com/thehalfspace"
-
+    url = "https://www.soundcloud.com/thehalfspace/"
 
 [languages]
     [languages.en]
@@ -126,5 +124,3 @@ pygmentsCodeFencesGuessSyntax = true
             name = "Contact me"
             weight = 6
             url = "contact/"
-
-
