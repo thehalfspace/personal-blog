@@ -1,6 +1,6 @@
 ---
 title: "Creating this website with Hugo and Github"
-date: 2020-12-27T23:49:25+05:30
+date: 2020-12-29T23:49:25+05:30
 slug: ""
 description: ""
 keywords: [hugo,github,static website,goat analytics]

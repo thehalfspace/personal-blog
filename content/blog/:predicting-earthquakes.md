@@ -1,7 +1,7 @@
 ---
 title:  "Predicting Earthquakes"
 subtitle: "Where are we?"
-date: 2020-12-27T23:49:25+05:30
+date: 2020-12-30T23:49:25+05:30
 comments: true
 keywords: []
 tags: [misc.]
