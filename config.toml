@@ -56,7 +56,9 @@ pygmentsCodeFencesGuessSyntax = true
 
 # If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
 [params.goatCounter]
-   code = "code"
+   code = <script data-goatcounter="https://thehalfspace.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
 
 # If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
 #[params.cloudflare]
