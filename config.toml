@@ -1,5 +1,5 @@
 baseURL = "http://thehalfspace.github.io"
-title = "home"
+title = "thehalfspace"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
