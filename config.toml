@@ -12,9 +12,9 @@ pygmentsCodeFencesGuessSyntax = true
 
 [params]
     author = "Prithvi Thakur"
-    description = "Seismology / Music / Scientific Computing / Mathematics"
+    description = "Graduate Student and Bedroom Musician"
     keywords = "blog,musician,personal,science"
-    info = "Graduate Student and Learner"
+    info = "Seismology / Music / Scientific Computing / Mathematics"
     avatarURL = "/images/avatar.jpg"
     favicon_32 = "/images/favicon-32x32.png"
     favicon_16 = "/images/favicon-16x16.png"
