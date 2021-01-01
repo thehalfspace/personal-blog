@@ -38,7 +38,7 @@ pygmentsCodeFencesGuessSyntax = true
     # "auto" (use preference set by browser)
     # "dark" (dark background, light foreground)
     # "light" (light background, dark foreground) (default)
-    colorScheme = "auto"
+    colorScheme = "light"
 
     # Hide the toggle button, along with the associated vertical divider
     hideColorSchemeToggle = false
@@ -87,6 +87,14 @@ pygmentsCodeFencesGuessSyntax = true
     icon = "fa fa-soundcloud"
     weight = 4
     url = "https://www.soundcloud.com/thehalfspace/"
+
+# utterances comment
+[params.utterances]
+  repo = "thehalfspace.github.io" # https://utteranc.es/#heading-repository
+  issueTerm = "Issue title contains page pathname" # https://utteranc.es/#heading-mapping
+  label = "" # https://utteranc.es/#heading-issue-label
+  theme = "GitHub Light" # https://utteranc.es/#heading-theme
+
 
 [languages]
     [languages.en]

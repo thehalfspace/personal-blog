@@ -1,6 +1,6 @@
 ---
 title: "My music and audio gear"
-date: 2020-12-29T23:49:25+05:30
+date: 2020-12-31T23:49:25+05:30
 slug: ""
 description: ""
 keywords: [bedroom studio, music recording, guitars, ableton, production]
