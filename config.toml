@@ -90,7 +90,7 @@ pygmentsCodeFencesGuessSyntax = true
 
 # utterances comment
 [params.utterances]
-  repo = "thehalfspace/thehalfspace.github.io"
+  repo = "thehalfspace/personal-blog"
   issue-term = "url" 
   theme = "github-light"
   crossorigin = "anonymous" 
