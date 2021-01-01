@@ -7,6 +7,7 @@ keywords: [bedroom studio, music recording, guitars, ableton, production]
 draft: false
 tags: [misc.,music]
 math: false
+comment: true
 toc: false
 ---
 
