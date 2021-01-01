@@ -57,12 +57,13 @@ pygmentsCodeFencesGuessSyntax = true
     [params.goatCounter]
        code = "thehalfspace" 
 
-    # utterances comment
-    #[params.utterances]
-    #    enable = "false"
-    #    repo = "thehalfspace/thehalfspace.github.io"
-    #    issueTerm = "pathname"
-    #    theme = "github-light"
+# utterances comment
+[params.utterances]
+	enable = true
+	repo = "thehalfspace/thehalfspace.github.io"
+	issueTerm = "pathname"
+	label="Comments"
+  	theme = "github-light"
 
 [taxonomies]
   category = "categories"
@@ -115,9 +116,9 @@ pygmentsCodeFencesGuessSyntax = true
             url = "publications/"
 
             [[languages.en.menu.main]]
-            name = "Blog"
+            name = "Posts"
             weight = 4
-            url = "blog/"
+            url = "posts/"
 
             [[languages.en.menu.main]]
             name = "Music"
