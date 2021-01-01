@@ -14,4 +14,4 @@ toc: false
 
 I am trying to write about the budget home recording setup that I have here. WIP, this may be incomplete if you see it now.
 
-Check out some recordings I did with these setup [here](http://thehalfspace.github.om/music/intro-music/).
+Check out some recordings I did with these setup [here](http://thehalfspace.github.io/music/intro-music/).
