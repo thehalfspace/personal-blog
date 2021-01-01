@@ -57,9 +57,12 @@ pygmentsCodeFencesGuessSyntax = true
 [params.goatCounter]
    code = "thehalfspace" 
 
-# If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
-#[params.cloudflare]
-#    token = "token"
+# utterances comment
+[params.utterances]
+    enable = "true"
+    repo = "thehalfspace/thehalfspace.github.io"
+    issueTerm = "pathname" 
+    theme = "github-light"
 
 [taxonomies]
   category = "categories"
@@ -88,11 +91,6 @@ pygmentsCodeFencesGuessSyntax = true
     weight = 4
     url = "https://www.soundcloud.com/thehalfspace/"
 
-# utterances comment
-[params.utterances]
-    repo = "thehalfspace/thehalfspace.github.io"
-    issueTerm = "pathname" 
-    theme = "github-light"
 
 
 [languages]
