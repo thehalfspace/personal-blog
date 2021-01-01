@@ -59,37 +59,37 @@ pygmentsCodeFencesGuessSyntax = true
 
     # utterances comment
     [params.utterances]
-        enable = "true"
+        enable = "false"
         repo = "thehalfspace/thehalfspace.github.io"
         issueTerm = "pathname" 
         theme = "github-light"
 
-    [taxonomies]
-      category = "categories"
-      series = "series"
-      tag = "tags"
-      author = "authors"
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
 
-    [[params.social]]
-        name = "Github"
-        icon = "fa fa-github"
-        weight = 1
-        url = "https://github.com/thehalfspace/"
-    [[params.social]]
-        name = "Twitter"
-        icon = "fa fa-twitter"
-        weight = 2
-        url = "https://twitter.com/thehalfspace__/"
-    [[params.social]]
-        name = "LinkedIn"
-        icon = "fa fa-linkedin"
-        weight = 3
-        url = "https://www.linkedin.com/in/prithvi-thakur/"
-    [[params.social]]
-        name = "SoundCloud"
-        icon = "fa fa-soundcloud"
-        weight = 4
-        url = "https://www.soundcloud.com/thehalfspace/"
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/thehalfspace/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 2
+    url = "https://twitter.com/thehalfspace__/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/prithvi-thakur/"
+[[params.social]]
+    name = "SoundCloud"
+    icon = "fa fa-soundcloud"
+    weight = 4
+    url = "https://www.soundcloud.com/thehalfspace/"
 
 
 
