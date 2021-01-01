@@ -90,10 +90,10 @@ pygmentsCodeFencesGuessSyntax = true
 
 # utterances comment
 [params.utterances]
-  repo = "thehalfspace.github.io" # https://utteranc.es/#heading-repository
-  issueTerm = "Issue title contains page pathname" # https://utteranc.es/#heading-mapping
-  label = "" # https://utteranc.es/#heading-issue-label
-  theme = "GitHub Light" # https://utteranc.es/#heading-theme
+  repo = "thehalfspace/thehalfspace.github.io"
+  issue-term = "url" 
+  theme = "github-light"
+  crossorigin = "anonymous" 
 
 
 [languages]
