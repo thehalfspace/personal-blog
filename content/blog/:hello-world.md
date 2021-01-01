@@ -7,6 +7,7 @@ keywords: [scientific,blog,beginner,musician]
 draft: false
 tags: [misc.]
 math: false
+comment: true
 toc: false
 ---
 

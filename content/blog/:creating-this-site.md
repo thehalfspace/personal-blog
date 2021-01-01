@@ -7,6 +7,7 @@ keywords: [hugo,github,static website,goat analytics]
 draft: false
 tags: [misc.]
 math: false
+comment: true
 toc: false
 ---
 
