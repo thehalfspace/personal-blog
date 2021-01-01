@@ -5,7 +5,7 @@ slug: ""
 description: ""
 keywords: [hugo,github,static website,goat analytics]
 draft: false
-tags: [misc.]
+tags: [misc., tech]
 math: false
 comment: true
 draft: false
