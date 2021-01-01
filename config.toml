@@ -58,11 +58,11 @@ pygmentsCodeFencesGuessSyntax = true
        code = "thehalfspace" 
 
     # utterances comment
-    [params.utterances]
-        enable = "false"
-        repo = "thehalfspace/thehalfspace.github.io"
-        issueTerm = "pathname" 
-        theme = "github-light"
+    #[params.utterances]
+    #    enable = "false"
+    #    repo = "thehalfspace/thehalfspace.github.io"
+    #    issueTerm = "pathname"
+    #    theme = "github-light"
 
 [taxonomies]
   category = "categories"
