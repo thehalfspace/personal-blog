@@ -1,11 +1,13 @@
 ---
-title: "Start here"
-date: 2020-12-30T11:24:32+05:30
+title: "My Music Projects"
+date: 2021-01-02T11:24:32+05:30
 draft: false
 description: My music projects.
 ---
 
 I started out as an amateur bedroom guitarist in high school and now I'm getting a little more into audio recording and music production, still in the bedroom. Unlike the typical bedroom music studio where people convert their spare bedroom into a mini music studio, my bedroom studio is my actual bedroom where I sleep and make music, and also work (during covid).
+
+I am trying to learn Bass, Synth (MIDI), and music production (Ableton) these days.
 
 Here are some of my amateur(ish) incomplete demos:
 
