@@ -9,7 +9,7 @@ I started out as an amateur bedroom guitarist in high school and now I'm getting
 
 I am trying to learn Bass, Synth (MIDI), and music production (Ableton) these days.
 
-Here are some of my amateur(ish) incomplete demos:
+Here are some of my amateur(ish) incomplete demos (original compositions):
 
 1. https://soundcloud.com/thehalfspace/geodetic-feels
 
@@ -18,11 +18,17 @@ Here are some of my amateur(ish) incomplete demos:
 3. https://soundcloud.com/thehalfspace/solitary-waves
 
 
-Here are some collaborations I did on reddit and discord:
+Here are some collaborations I did on reddit and discord (If you liked these, show some love to my collaborators as well by following/liking/etc):
 
-1. https://soundcloud.com/twotimessomething/where-did-the-season-go-ft-germyp-thehalfspace
+1. A synth-pop Christmas themed composition:
 
-2. https://www.youtube.com/watch?v=3tTAdLJBCVw
+https://soundcloud.com/twotimessomething/where-did-the-season-go-ft-germyp-thehalfspace
 
-3. https://www.youtube.com/watch?v=2JHHnvNfRsU 
+2. A Doo Wop Christmas themed composition: 
+
+{{< youtube 3tTAdLJBCVw >}}
+
+3. Radiohead Creep cover:
+
+{{< youtube 2JHHnvNfRsU >}} 
 
