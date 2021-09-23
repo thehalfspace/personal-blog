@@ -16,8 +16,8 @@ pygmentsCodeFencesGuessSyntax = true
     keywords = "blog,musician,personal,science"
     info = "Seismology / Music / Scientific Computing / Mathematics"
     avatarURL = "/images/avatar.png"
-    favicon_32 = "/images/favicon-32x32.png"
-    favicon_16 = "/images/favicon-16x16.png"
+    favicon_32 = "/images/pt-logo.png"
+    favicon_16 = "/images/pt-logo.png"
     footerContent = "You either die a spongebob or live long enough to become a squidward -Reddit"
 
     dateFormat = "January 2, 2006"

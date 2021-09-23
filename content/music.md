@@ -5,7 +5,7 @@ draft: false
 description: My music projects.
 ---
 
-I started out as an amateur bedroom guitarist in high school and now I'm getting a little more into audio recording and music production, still in the bedroom. Unlike the typical bedroom music studio where people convert their spare bedroom into a mini music studio, my bedroom studio is my actual bedroom where I sleep and make music, and also work (during covid).
+I started out as an amateur bedroom guitarist in high school and now I'm getting a little more into audio recording and music production, still in the bedroom. Unlike the typical spare bedroom music studio, my bedroom studio is my actual bedroom where I sleep and make music, and also work (during covid).
 
 I am trying to learn Bass, Synth (MIDI), and music production (Ableton) these days.
 
@@ -20,9 +20,7 @@ Here are some of my amateur(ish) incomplete demos (original compositions):
 
 Here are some collaborations I did on reddit and discord (If you liked these, show some love to my collaborators as well by following/liking/etc):
 
-1. A synth-pop Christmas themed composition:
-
-https://soundcloud.com/twotimessomething/where-did-the-season-go-ft-germyp-thehalfspace
+1. A synth-pop Christmas themed composition: https://soundcloud.com/twotimessomething/where-did-the-season-go-ft-germyp-thehalfspace
 
 2. A Doo Wop Christmas themed composition: 
 
