@@ -12,11 +12,11 @@ I am currently working on understanding the effect of low velocity zones surroun
 
 ![](/media/fault_zone.png)
 
-We recently published a [paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB019587) discussing the effects of the geometry of a low-velocity layer on the depth distribution of seismicity and the general complexity of earthquakes.
+We (not so) recently (anymore) published a [paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB019587) discussing the effects of the geometry of a low-velocity layer on the depth distribution of seismicity and the general complexity of earthquakes.
 
 ![](/media/damage_evolution.png)
 
-I am currently working on understanding how the structural maturity of strike-slip fault damage zones can influence the fault-slip behavior, the earthquake recurrence and the stressing history. This is done using a purely elastic framework and approximating the fault damage zone as a parallel layer while changing it's strength through multiple earthquakes.
+I have worked on understanding how the structural maturity of strike-slip fault damage zones can influence the fault-slip behavior, the earthquake recurrence and the stressing history. This is done using a purely elastic framework and approximating the fault damage zone as a parallel layer while changing it's strength through multiple earthquakes. Refer to our recently published [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL094679) for details.
 
 ### 2019 Ridgecrest earthquake sequence
 
