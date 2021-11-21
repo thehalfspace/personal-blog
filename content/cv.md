@@ -5,5 +5,3 @@ draft: false
 ---
 
 {{% staticref "/media/cv.pdf" %}}Download my CV{{% /staticref %}}
-
-![](/media/cv.pdf)
