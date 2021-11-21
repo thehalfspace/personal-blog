@@ -3,5 +3,6 @@ public
 /public
 
 .DS_Store
+.*.swp
 
 static/.DS_Store
