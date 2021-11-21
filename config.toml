@@ -118,7 +118,7 @@ pygmentsCodeFencesGuessSyntax = true
             [[languages.en.menu.main]]
             name = "Resume/C.V."
             weight = 4
-            url = "cv/"
+            url = "content/media/cv.pdf"
 
             [[languages.en.menu.main]]
             name = "Posts"
