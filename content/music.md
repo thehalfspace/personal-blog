@@ -18,15 +18,12 @@ Here are some of my amateur(ish) incomplete demos (original compositions):
 3. https://soundcloud.com/thehalfspace/solitary-waves
 
 
-Here are some collaborations I did on reddit and discord (If you liked these, show some love to my collaborators as well by following/liking/etc):
+Here are some collaborations I did on reddit and discord:
 
 1. A synth-pop Christmas themed composition: https://soundcloud.com/twotimessomething/where-did-the-season-go-ft-germyp-thehalfspace
 
-2. A Doo Wop Christmas themed composition: 
 
-{{< youtube 3tTAdLJBCVw >}}
-
-3. Radiohead Creep cover:
+2. Radiohead Creep cover:
 
 {{< youtube 2JHHnvNfRsU >}} 
 
